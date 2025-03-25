@@ -44,12 +44,11 @@ const IntegrantesPage = () => {
               Tecnologia da Informação. Com sólida base técnica e experiência em projetos.
             </p>
           </div>
-        </div>
-
-        <Link href='/'><Botao texto='Retornar'/></Link>
-        
+        </div>        
 
         <footer className="members-footer">
+          <Link href='/'><Botao texto='Retornar'/></Link>
+          <div className="divider-line" />
           <p>© Todos os direitos reservados - Grupo ARC</p>
         </footer>
       </div>
