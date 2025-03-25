@@ -5,7 +5,6 @@ import React from 'react';
 import Header_Principal from '@/components/header_principal/page';
 import StationItem from '@/components/StationItem/page';
 import Navegacao from '@/components/barra_navegacao/page';
-import MapSection from '@/components/MapSection/page';
 import '@/app/globals.css';
 
 const MainPage = () => {
@@ -15,7 +14,6 @@ const MainPage = () => {
         <Header_Principal />
 
         <div className="content">
-          <MapSection />
 
           <div className="stations-list">
             <h2>Linhas Próximas</h2>

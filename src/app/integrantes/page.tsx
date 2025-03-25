@@ -16,7 +16,6 @@ const IntegrantesPage = () => {
           <div className="member-card">
             <div className="member-header">
               <h2 className="member-name">Arthur Algate</h2>
-              <span className="member-info">RM 560109 | Turma 11DSQ</span>
             </div>
             <p className="member-description">
               Meu nome é Arthur Ribeiro Algate, tenho 18 anos e já morei nos Estados Unidos. 
@@ -28,7 +27,6 @@ const IntegrantesPage = () => {
           <div className="member-card">
             <div className="member-header">
               <h2 className="member-name">Rafael Nonato</h2>
-              <span className="member-info">RM 560634 | Turma 11DSQ</span>
             </div>
             <p className="member-description">
               Sou Rafael, tenho 29 anos e tenho grande paixão por inovação, tecnologia e programação. 
@@ -40,7 +38,6 @@ const IntegrantesPage = () => {
           <div className="member-card">
             <div className="member-header">
               <h2 className="member-name">Carlos Santiago</h2>
-              <span className="member-info">RM 561187 | Turma 11DSQ</span>
             </div>
             <p className="member-description">
               Sou formado em Técnico de Eletrônica, membro ativo do CFT e, atualmente, estou focado na área de 
