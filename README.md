@@ -100,21 +100,4 @@ O ViaMobility foi desenvolvido como uma **web view** para garantir compatibilida
 
 ---
 
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Siga os passos:
-1. Faça um fork do projeto.
-2. Crie uma branch (`git checkout -b feature/nova-feature`).
-3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`).
-4. Push para a branch (`git push origin feature/nova-feature`).
-5. Abra um Pull Request.
-
----
-
-## 📄 Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais detalhes.
-
----
-
 Feito com ❤️ por Rafael Nonato, Arthur Algate e Carlos Santiago - Conectando você ao futuro da mobilidade! 🚇✨
