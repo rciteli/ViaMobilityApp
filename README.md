@@ -117,4 +117,4 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais detalhes.
 
 ---
 
-Feito com ❤️ por [Rafael Nonato, Arthur Algate e Carlos Santiago] - Conectando você ao futuro da mobilidade! 🚇✨
+Feito com ❤️ por Rafael Nonato, Arthur Algate e Carlos Santiago - Conectando você ao futuro da mobilidade! 🚇✨
